@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+pitch_output/
+uploads/
+*.npz
+*.mp4
+*.mov
+*.webm
+.DS_Store

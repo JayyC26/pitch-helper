@@ -1,0 +1,6 @@
+pitch_output/
+__pycache__/
+*.pyc
+*.mp4
+*.mov
+.git/

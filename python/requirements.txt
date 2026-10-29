@@ -1,0 +1,5 @@
+# mediapipe also installs OpenCV (opencv-contrib-python), so it isn't listed separately
+mediapipe>=0.10.14,<0.11
+numpy
+flask
+imageio-ffmpeg
